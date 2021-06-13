@@ -6,7 +6,6 @@
 
 Planned steps:
 
-- Static components
-- Pass info to static components
-- Set state in container component
-- Access and implement the Yelp API
+- ENV files and secret keys
+- login with local storage to save fav locations
+- Express with proper CORS
