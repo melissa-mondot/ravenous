@@ -21,7 +21,6 @@ class App extends React.Component {
         <h1>ravenous</h1>
         <SearchBar searchYelp={this.searchYelp} />
         <BusinessList businesses={this.state.businesses} />
-        {console.log(this.state.businesses)}
       </div>
     );
   }
