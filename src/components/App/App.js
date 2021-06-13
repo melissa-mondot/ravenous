@@ -2,6 +2,7 @@ import React from "react";
 import SearchBar from "../SearchBar/SearchBar";
 import BusinessList from "../BusinessList/BusinessList";
 import "./App.css";
+import { Yelp } from "../../util/Yelp.js";
 
 const business = {
   imageSrc: "https://content.codecademy.com/programs/react/ravenous/pizza.jpg",
