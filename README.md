@@ -7,5 +7,6 @@
 Planned steps:
 
 - ENV files and secret keys
-- login with local storage to save fav locations
 - Express with proper CORS
+- login with local storage to save fav locations
+- image styling with animations
