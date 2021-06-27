@@ -12,7 +12,7 @@ A Yelp clone project
 
 1. Run `npm i` in terminal to install packages
 2. Run `npm start` to start up server
-3. visit [CORS Anywhere](https://cors-anywhere.herokuapp.com/) for temporary cross-cors ability (see To-Dos)
+3. Visit [CORS Anywhere](https://cors-anywhere.herokuapp.com/) for temporary cross-cors ability (see To-Dos)
 4. Search function on site should now work as intended. Console data returns example:
 
 - ![terminal](https://github.com/melissa-mondot/ravenous/blob/master/src/assets/img/console_return_example.png?raw=true)
@@ -46,10 +46,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## To-Do
 
+- Add dev dependencies to README
 - ENV files and secret keys
 - Express with proper CORS
 - login with local storage to save fav locations
-- image styling with animations
+- Image styling with animations
 
 ## Team
 
